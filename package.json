@@ -43,5 +43,11 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "coffee-script": "~1.10.0",
+    "gzippo": "~0.2.0",
+    "express": "~4.13.3",
+    "bcrypt": "~0.8.5"
   }
 }
