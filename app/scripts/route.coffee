@@ -7,7 +7,7 @@ angular.module 'leninPhotographyApp'
                 templateUrl: "views/main.html",
                 controller: 'homeCtrl'
             .state 'details',
-                url: 'photo/:id',
+                url: '/photo/:id',
                 templateUrl: "views/partials/photo_details.html",
                 controller: 'photoDetailCtrl',
             .state 'about',
