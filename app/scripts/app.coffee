@@ -16,4 +16,5 @@ angular
     'ngTouch',
     'ui.router',
     'justifedGalleryNG',
+    'anim-in-out',
   ]
